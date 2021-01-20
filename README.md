@@ -1,2 +1,2 @@
 # voice_assistance
-command system for doing some work automatically
+Do some work automatically in the desktop, on the basis of voice command
