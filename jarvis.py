@@ -48,8 +48,8 @@ def sendEmail(to,content):
      server = smtplib.SMTP('smtp.gmail.com',587)
      server.ehlo()
      server.starttls()
-     server.login('arvinddevelop@gmail.com', 'arvi9471')
-     server.sendmail('aks7631353674@gmail.com' ,to, content)
+     server.login('arp@gmail.com', 'Password')
+     server.sendmail('aks@gmail.com' ,to, content)
      server.close()
 
 if __name__ == "__main__":
